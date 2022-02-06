@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="VHDB" max_length="40" name="x_745018_archive_0_vhdb" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="BARID" max_length="40" name="barid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Country" max_length="40" name="country" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="76" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="IconImg" max_length="40" name="iconimg" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="InsuranceCo" max_length="40" name="insuranceco" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Invoice (S)" max_length="49" name="invoice_s" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Itemtype" max_length="40" name="itemtype" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Latitude" max_length="40" name="latitude" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Longitude" max_length="40" name="longitude" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ModelMfg" max_length="40" name="modelmfg" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ModelName" max_length="40" name="modelname" type="string"/>
+        <element label="ModelYear" max_length="40" name="modelyear" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="OBDCode" max_length="609" name="obdcode" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="OBDSource" max_length="40" name="obdsource" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Odometer" max_length="40" name="odometer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="RepairCode" max_length="40" name="repaircode" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="RepairDesc" max_length="71" name="repairdesc" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="RepairFacility" max_length="40" name="repairfacility" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="State" max_length="40" name="state" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="userId" max_length="46" name="userid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="VIN" max_length="40" name="vin" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="WhenAdded" max_length="40" name="whenadded" type="glide_date_time"/>
+    </element>
+</database>
