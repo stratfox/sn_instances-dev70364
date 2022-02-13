@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-13 06:53:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d50f324fd3610110aa96eaba83d8c825</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Archive Auto V1" source="x_745018_archive_0">12f76178db210110fc68b7e8f4961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Archive Auto V1">12f76178db210110fc68b7e8f4961934</sys_scope>
+        <sys_update_name>m2m_app_config_theme_d50f324fd3610110aa96eaba83d8c825</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-13 06:53:37</sys_updated_on>
+        <theme display_value="Starter Workspace Theme">5d0f324f6c6101103c52e79578e98c25</theme>
+        <ux_app_configuration display_value="Archive Auto V1 Config">190f324f9c6101101b6b7ee63dc2f525</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

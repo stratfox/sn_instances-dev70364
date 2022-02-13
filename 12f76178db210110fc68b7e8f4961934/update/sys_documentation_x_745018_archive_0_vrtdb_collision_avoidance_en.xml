@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="collision_avoidance" label="COLLISION_AVOIDANCE" language="en" table="x_745018_archive_0_vrtdb">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>collision_avoidance</element>
+            <help/>
+            <hint/>
+            <label>COLLISION_AVOIDANCE</label>
+            <language>en</language>
+            <name>x_745018_archive_0_vrtdb</name>
+            <plural>COLLISION_AVOIDANCEs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-02-07 06:53:25</sys_created_on>
+            <sys_id>c8754499db298110fc68b7e8f49619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>COLLISION_AVOIDANCE</sys_name>
+            <sys_package display_value="Archive Auto V1" source="x_745018_archive_0">12f76178db210110fc68b7e8f4961934</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Archive Auto V1">12f76178db210110fc68b7e8f4961934</sys_scope>
+            <sys_update_name>sys_documentation_x_745018_archive_0_vrtdb_collision_avoidance_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-02-07 06:53:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

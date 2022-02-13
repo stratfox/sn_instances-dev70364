@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="VHDB" max_length="40" name="x_745018_archive_0_vhdb" type="collection">
+    <element label="VHDB" max_length="40" name="x_745018_archive_0_vhdb" sizeclass="91" type="collection">
         <element attributes="edge_encryption_enabled=true" label="BARID" max_length="40" name="barid" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="city" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Country" max_length="40" name="country" type="string"/>

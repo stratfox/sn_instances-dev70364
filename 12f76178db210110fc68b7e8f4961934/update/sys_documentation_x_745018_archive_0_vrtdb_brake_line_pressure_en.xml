@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="brake_line_pressure" label="BRAKE_LINE_PRESSURE" language="en" table="x_745018_archive_0_vrtdb">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>brake_line_pressure</element>
+            <help/>
+            <hint/>
+            <label>BRAKE_LINE_PRESSURE</label>
+            <language>en</language>
+            <name>x_745018_archive_0_vrtdb</name>
+            <plural>BRAKE_LINE_PRESSUREs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-02-07 06:53:28</sys_created_on>
+            <sys_id>ec758499db298110fc68b7e8f496199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>BRAKE_LINE_PRESSURE</sys_name>
+            <sys_package display_value="Archive Auto V1" source="x_745018_archive_0">12f76178db210110fc68b7e8f4961934</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Archive Auto V1">12f76178db210110fc68b7e8f4961934</sys_scope>
+            <sys_update_name>sys_documentation_x_745018_archive_0_vrtdb_brake_line_pressure_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-02-07 06:53:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

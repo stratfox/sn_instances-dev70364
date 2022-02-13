@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="time_since_dtc_clear" label="TIME_SINCE_DTC_CLEAR" language="en" table="x_745018_archive_0_vrtdb">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>time_since_dtc_clear</element>
+            <help/>
+            <hint/>
+            <label>TIME_SINCE_DTC_CLEAR</label>
+            <language>en</language>
+            <name>x_745018_archive_0_vrtdb</name>
+            <plural>TIME_SINCE_DTC_CLEARs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-02-07 06:53:25</sys_created_on>
+            <sys_id>c4754499db298110fc68b7e8f496196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>TIME_SINCE_DTC_CLEAR</sys_name>
+            <sys_package display_value="Archive Auto V1" source="x_745018_archive_0">12f76178db210110fc68b7e8f4961934</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Archive Auto V1">12f76178db210110fc68b7e8f4961934</sys_scope>
+            <sys_update_name>sys_documentation_x_745018_archive_0_vrtdb_time_since_dtc_clear_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-02-07 06:53:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

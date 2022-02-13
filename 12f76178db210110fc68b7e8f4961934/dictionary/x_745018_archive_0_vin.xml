@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="VIN" max_length="40" name="x_745018_archive_0_vin" type="collection">
+        <element label="Manufacturer" max_length="32" name="manufacturer" reference="core_company" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Model" max_length="40" name="model" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="VIN" max_length="40" name="vin" type="string"/>
+        <element label="Year" max_length="40" name="year" type="integer"/>
+    </element>
+</database>

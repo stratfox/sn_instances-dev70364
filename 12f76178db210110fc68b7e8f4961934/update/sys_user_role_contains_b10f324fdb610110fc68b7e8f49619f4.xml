@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_745018_to_do.todo_user" name="x_745018_to_do.todo_user">1167b8961b304110ff3f96c6b04bcb4a</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-13 06:53:39</sys_created_on>
+        <sys_id>b10f324fdb610110fc68b7e8f49619f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_745018_to_do.todo_user</sys_name>
+        <sys_package display_value="Archive Auto V1" source="x_745018_archive_0">12f76178db210110fc68b7e8f4961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Archive Auto V1">12f76178db210110fc68b7e8f4961934</sys_scope>
+        <sys_update_name>sys_user_role_contains_b10f324fdb610110fc68b7e8f49619f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-13 06:53:39</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
